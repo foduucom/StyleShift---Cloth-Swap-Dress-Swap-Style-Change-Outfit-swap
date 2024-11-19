@@ -3,7 +3,7 @@
 This project showcases a Cloth Swap feature, leveraging the powerful capabilities of ComfyUI, a modular and flexible interface for AI workflows. This guide provides step-by-step instructions to set up, use, and contribute to the project.
 
 <div align="center">
-  <img width="600" height="500" alt="foduucom/ClothSwap" src="https://huggingface.co/foduucom/StyleShift-ClothSwap/resolve/main/output.png">
+  <img width="700" height="500" alt="foduucom/ClothSwap" src="https://huggingface.co/foduucom/StyleShift-ClothSwap/resolve/main/output.png">
 </div>
 
 ## Objective
