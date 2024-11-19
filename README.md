@@ -1,19 +1,3 @@
----
-language:
-- en
-tags:
-- ClothSwap
-- TryOn
-- StyleChange
-- DressChange
-- ClothShift
-- TryCloth
-- FashionNew
-- SwapCloth
-- DressSwap
-- OutfitSwap
-license: apache-2.0
----
 ##  StyleShift - Cloth Swap / Dress Swap / Style Change / Outfit Swap
 
 This project showcases a Cloth Swap feature, leveraging the powerful capabilities of ComfyUI, a modular and flexible interface for AI workflows. This guide provides step-by-step instructions to set up, use, and contribute to the project.
@@ -59,7 +43,7 @@ Note: ComfyUI requires Python 3.9 or above. Ensure all required dependencies are
 Now Go to Manager ->-> Custom Nodes Manager and install this two nodes <b>ComfyUI Layer Style</b> and <b>ComfyUI_CatVTON_Wrapper</b>, restart and reload the page.
 
 <div align="center">
-  <img width="800" height="800" alt="foduucom/ClothSwap" src="https://huggingface.co/foduucom/ClothSwap/resolve/main/custom_nodes.png">
+  <img width="500" height="500" alt="foduucom/ClothSwap" src="https://huggingface.co/foduucom/ClothSwap/resolve/main/custom_nodes.png">
 </div>
 
 Place the <b>sam_vit_h_4b8939.pth</b> model inside ComfyUI/models/sams directory and <b>groundingdino_swint_ogc.pth</b> model in ComfyUI/models/grounding-dino directory if not download it.
